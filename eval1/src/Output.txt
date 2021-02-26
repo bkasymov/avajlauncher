@@ -1,0 +1,147 @@
+Tower says: Baloon#B1(1) registered to weather tower.
+Tower says: Baloon#B2(2) registered to weather tower.
+Tower says: JetPlane#J1(3) registered to weather tower.
+Tower says: Helicopter#H1(4) registered to weather tower.
+Tower says: Helicopter#H2(5) registered to weather tower.
+Tower says: Helicopter#H3(6) registered to weather tower.
+Tower says: Baloon#B3(7) registered to weather tower.
+Tower says: JetPlane#J2(8) registered to weather tower.
+Tower says: Helicopter#H4(9) registered to weather tower.
+Baloon#B1(1): Ahhh, it has been long since I had a good wash, pour on me thou Rain!
+Baloon#B2(2): Finally some Sun, Ulra violets bouncing on me. :)
+JetPlane#J1(3): My skin could crack from these sun burns!!
+Helicopter#H1(4): I loved SNOW white and the seven dwarfs as a child.
+Helicopter#H2(5): I loved SNOW white and the seven dwarfs as a child.
+Helicopter#H3(6): Fuck I'm burning! Gimme some Sun screen
+Baloon#B3(7): Oh my fucken God can it stop snowing already!
+JetPlane#J2(8): Cloud 9 has come to me!
+Helicopter#H4(9): It's Raining cats and dogs.
+Baloon#B1(1): Ahhh, it has been long since I had a good wash, pour on me thou Rain!
+Baloon#B2(2): Finally some Sun, Ulra violets bouncing on me. :)
+JetPlane#J1(3): I'd love some coffee and a blanket right now!
+Helicopter#H1(4): Fuck I'm burning! Gimme some Sun screen
+Helicopter#H2(5): The Fog does no harm... I've always been short sighted
+Helicopter#H3(6): Fuck I'm burning! Gimme some Sun screen
+Baloon#B3(7): Finally some Sun, Ulra violets bouncing on me. :)
+JetPlane#J2(8): Cloud 9 has come to me!
+Helicopter#H4(9): I loved SNOW white and the seven dwarfs as a child.
+Baloon#B1(1): Oh my fucken God can it stop snowing already!
+Baloon#B2(2): Oh my fucken God can it stop snowing already!
+JetPlane#J1(3): My skin could crack from these sun burns!!
+Helicopter#H1(4): I loved SNOW white and the seven dwarfs as a child.
+Tower says: Helicopter#H1(4) unregisteres from weather tower and lands.
+Helicopter#H2(5): It's Raining cats and dogs.
+Helicopter#H3(6): The Fog does no harm... I've always been short sighted
+Baloon#B3(7): Oh my fucken God can it stop snowing already!
+JetPlane#J2(8): I'd love some coffee and a blanket right now!
+Helicopter#H4(9): The Fog does no harm... I've always been short sighted
+Baloon#B1(1): Oh my fucken God can it stop snowing already!
+Baloon#B2(2): Ahhh, it has been long since I had a good wash, pour on me thou Rain!
+JetPlane#J1(3): Cloud 9 has come to me!
+Helicopter#H2(5): It's Raining cats and dogs.
+Helicopter#H3(6): I loved SNOW white and the seven dwarfs as a child.
+Baloon#B3(7): Finally some Sun, Ulra violets bouncing on me. :)
+JetPlane#J2(8): Cloud 9 has come to me!
+Helicopter#H4(9): It's Raining cats and dogs.
+Baloon#B1(1): Ahhh, it has been long since I had a good wash, pour on me thou Rain!
+Tower says: Baloon#B1(1) unregisteres from weather tower and lands.
+Baloon#B2(2): Oh my fucken God can it stop snowing already!
+JetPlane#J1(3): My skin could crack from these sun burns!!
+Helicopter#H2(5): I loved SNOW white and the seven dwarfs as a child.
+Helicopter#H3(6): I loved SNOW white and the seven dwarfs as a child.
+Baloon#B3(7): Finally some Sun, Ulra violets bouncing on me. :)
+JetPlane#J2(8): My skin could crack from these sun burns!!
+Helicopter#H4(9): I loved SNOW white and the seven dwarfs as a child.
+Baloon#B2(2): Finally some Sun, Ulra violets bouncing on me. :)
+JetPlane#J1(3): Cloud 9 has come to me!
+Helicopter#H2(5): I loved SNOW white and the seven dwarfs as a child.
+Helicopter#H3(6): It's Raining cats and dogs.
+Baloon#B3(7): Oh my fucken God can it stop snowing already!
+JetPlane#J2(8): I'd love some coffee and a blanket right now!
+Helicopter#H4(9): I loved SNOW white and the seven dwarfs as a child.
+Baloon#B2(2): Oh my fucken God can it stop snowing already!
+JetPlane#J1(3): Atleast the dams will be filled
+Helicopter#H2(5): I loved SNOW white and the seven dwarfs as a child.
+Tower says: Helicopter#H2(5) unregisteres from weather tower and lands.
+Helicopter#H3(6): It's Raining cats and dogs.
+Baloon#B3(7): Oh my fucken God can it stop snowing already!
+Tower says: Baloon#B3(7) unregisteres from weather tower and lands.
+JetPlane#J2(8): I'd love some coffee and a blanket right now!
+Helicopter#H4(9): Fuck I'm burning! Gimme some Sun screen
+Baloon#B2(2): Finally some Sun, Ulra violets bouncing on me. :)
+JetPlane#J1(3): My skin could crack from these sun burns!!
+Helicopter#H3(6): Fuck I'm burning! Gimme some Sun screen
+JetPlane#J2(8): Atleast the dams will be filled
+Helicopter#H4(9): I loved SNOW white and the seven dwarfs as a child.
+Baloon#B2(2): Finally some Sun, Ulra violets bouncing on me. :)
+JetPlane#J1(3): I'd love some coffee and a blanket right now!
+Helicopter#H3(6): Fuck I'm burning! Gimme some Sun screen
+JetPlane#J2(8): My skin could crack from these sun burns!!
+Helicopter#H4(9): It's Raining cats and dogs.
+Baloon#B2(2): I can't see, I can't see..Oh my a Crash is coming! Damn you Fog.
+JetPlane#J1(3): Atleast the dams will be filled
+Helicopter#H3(6): I loved SNOW white and the seven dwarfs as a child.
+JetPlane#J2(8): I'd love some coffee and a blanket right now!
+Helicopter#H4(9): The Fog does no harm... I've always been short sighted
+Baloon#B2(2): I can't see, I can't see..Oh my a Crash is coming! Damn you Fog.
+JetPlane#J1(3): I'd love some coffee and a blanket right now!
+Helicopter#H3(6): Fuck I'm burning! Gimme some Sun screen
+JetPlane#J2(8): Atleast the dams will be filled
+Helicopter#H4(9): I loved SNOW white and the seven dwarfs as a child.
+Tower says: Helicopter#H4(9) unregisteres from weather tower and lands.
+Baloon#B2(2): Finally some Sun, Ulra violets bouncing on me. :)
+JetPlane#J1(3): Cloud 9 has come to me!
+Helicopter#H3(6): The Fog does no harm... I've always been short sighted
+JetPlane#J2(8): Cloud 9 has come to me!
+Baloon#B2(2): I can't see, I can't see..Oh my a Crash is coming! Damn you Fog.
+JetPlane#J1(3): Atleast the dams will be filled
+Helicopter#H3(6): Fuck I'm burning! Gimme some Sun screen
+JetPlane#J2(8): My skin could crack from these sun burns!!
+Baloon#B2(2): Finally some Sun, Ulra violets bouncing on me. :)
+JetPlane#J1(3): Cloud 9 has come to me!
+Helicopter#H3(6): It's Raining cats and dogs.
+JetPlane#J2(8): I'd love some coffee and a blanket right now!
+Baloon#B2(2): Finally some Sun, Ulra violets bouncing on me. :)
+JetPlane#J1(3): My skin could crack from these sun burns!!
+Helicopter#H3(6): Fuck I'm burning! Gimme some Sun screen
+JetPlane#J2(8): I'd love some coffee and a blanket right now!
+Baloon#B2(2): Finally some Sun, Ulra violets bouncing on me. :)
+JetPlane#J1(3): Cloud 9 has come to me!
+Helicopter#H3(6): I loved SNOW white and the seven dwarfs as a child.
+JetPlane#J2(8): My skin could crack from these sun burns!!
+Baloon#B2(2): Finally some Sun, Ulra violets bouncing on me. :)
+JetPlane#J1(3): Cloud 9 has come to me!
+Helicopter#H3(6): Fuck I'm burning! Gimme some Sun screen
+JetPlane#J2(8): Atleast the dams will be filled
+Baloon#B2(2): Oh my fucken God can it stop snowing already!
+JetPlane#J1(3): My skin could crack from these sun burns!!
+Helicopter#H3(6): It's Raining cats and dogs.
+JetPlane#J2(8): I'd love some coffee and a blanket right now!
+Baloon#B2(2): I can't see, I can't see..Oh my a Crash is coming! Damn you Fog.
+JetPlane#J1(3): I'd love some coffee and a blanket right now!
+Helicopter#H3(6): It's Raining cats and dogs.
+JetPlane#J2(8): My skin could crack from these sun burns!!
+Baloon#B2(2): I can't see, I can't see..Oh my a Crash is coming! Damn you Fog.
+JetPlane#J1(3): Cloud 9 has come to me!
+Helicopter#H3(6): Fuck I'm burning! Gimme some Sun screen
+JetPlane#J2(8): Cloud 9 has come to me!
+Baloon#B2(2): I can't see, I can't see..Oh my a Crash is coming! Damn you Fog.
+JetPlane#J1(3): Cloud 9 has come to me!
+Helicopter#H3(6): Fuck I'm burning! Gimme some Sun screen
+JetPlane#J2(8): My skin could crack from these sun burns!!
+Baloon#B2(2): Ahhh, it has been long since I had a good wash, pour on me thou Rain!
+JetPlane#J1(3): My skin could crack from these sun burns!!
+Helicopter#H3(6): The Fog does no harm... I've always been short sighted
+JetPlane#J2(8): I'd love some coffee and a blanket right now!
+Baloon#B2(2): Ahhh, it has been long since I had a good wash, pour on me thou Rain!
+JetPlane#J1(3): Atleast the dams will be filled
+Helicopter#H3(6): I loved SNOW white and the seven dwarfs as a child.
+JetPlane#J2(8): My skin could crack from these sun burns!!
+Baloon#B2(2): Ahhh, it has been long since I had a good wash, pour on me thou Rain!
+JetPlane#J1(3): I'd love some coffee and a blanket right now!
+Helicopter#H3(6): Fuck I'm burning! Gimme some Sun screen
+JetPlane#J2(8): My skin could crack from these sun burns!!
+Baloon#B2(2): Finally some Sun, Ulra violets bouncing on me. :)
+JetPlane#J1(3): Atleast the dams will be filled
+Helicopter#H3(6): I loved SNOW white and the seven dwarfs as a child.
+JetPlane#J2(8): Cloud 9 has come to me!

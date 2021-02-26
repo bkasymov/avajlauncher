@@ -1,0 +1,233 @@
+You will have to implement a minimal aircraft simulation program based on a given
+UML class diagram. The Unified Modeling Language is used in software engineering
+for visualizing the design of an application. It offers programmers a standardized way of
+thinking about Object Oriented software, before writing any line of code.
+
+Frankfurt airport recently discovered that due to frequent weather changes they have a
+bottleneck on some of the landing tracks. In order to find a solution, they first need to
+know which scenarios create the worst bottlenecks. So they decided to use a simulator
+where they configure and analyze multiple scenarios and hope that this will highlight
+them were the real problem is.
+
+
+Вам необходимо будет реализовать минимальную программу моделирования самолета, основанную на заданной диаграмме класса UML.
+Унифицированный язык моделирования используется в программной инженерии для визуализации дизайна приложения. Он предлагает программистам стандартизованный способ мышления об Объектно-ориентированном программном обеспечении, прежде чем писать какую-либо строку кода
+Аэропорт Франкфурта недавно обнаружил, что из-за частых погодных изменений они имеют узкое место на некоторых из посадочных треков. Для того, чтобы найти решение, они должны сначала знать, какие сценарии создают худшие узкие места. Поэтому они решили использовать симулятор, где они настраивают и анализируют несколько сценариев и надеюсь, что это выделит их была реальная проблема.
+Таким образом, они обращаются в свой локальный магазин программного обеспечения и назначить им эту задачу. Здесь главный конструктор начинает работать над концепцией и после анализа всех аспектов программного обеспечения, он принимает некоторые проектные решения, которые, он затем передает вам для того, чтобы создать симулятор.
+Так как программное обеспечение будет работать на множестве операционных систем в очень жесткой корпоративной среде, он решает использовать классический объектно-ориентированный язык: Java
+
+
+He will provide you:
+• the UML class diagram
+• the must-have Object Oriented design patterns
+What you need to know in order to be on the team that develops the simulator is:
+• Interpreting class diagrams - this is the way the architect uses to communicate with
+you
+• Observer, Singleton and Factory design patterns - he knows that this will not be
+the final version of the simulator and he aims to extend it in order to address other
+needs that the airport may have
+• The basic syntax of Java and some of the core features of the language. - this is
+obvious, since this is the language agreed upon
+
+
+Он обеспечит тебя:
+- диаграмму классов UML
+- обязательный ООП шаблоны дизайна
+То, что вам нужно знать для того, чтобы быть в команде, которая разрабатывает симулятор:
+- Интерпретация классовых диаграмм - это способ общения архитектора с вами.
+- Наблюдатель, Одиночный и Завод шаблоны дизайна - он знает, что это не будет окончательной версии симулятора, и он стремится расширить его для того, чтобы обратиться к другим потребностям, что аэропорт может иметь
+- Основной синтаксис Java и некоторые основные особенности языка. - Это очевидно, так как это язык, согласованный с Объектно-ориентированным Дизайном, а шаблоны дизайна - это темы, которые сами по себе покрывают тысячи страниц, так что не стесняйтесь исследовать эту область, и вы откроете для себя новый способ мышления в области программной инженерии. И кто знает? Может быть, однажды вы займете место архитектора.
+Только хорошая реализация будет принята, так как это лучший магазин программного обеспечения в городе. Для этого у него будет чистый дизайн, он будет легко читаемым и понятным. вашими коллегами и будет легко измениться в случае изменения требований.
+
+
+
+
+
+Object Oriented Design and design patterns are topics that cover by themselves thousands of pages, so feel free to explore this domain and you will discover a new way of
+thinking about software engineering. And who knows? Maybe you will take that architects place one day.
+Only a good implementation will be accepted, since this is the top software shop in the
+city. For this to happen, it will have a clean design, will be easy to read and understand
+by your peers and will be easy to change in case the requirements are modified.
+
+
+
+Объектно-ориентированный дизайн и шаблоны дизайна являются темами, которые сами по себе охватывают тысячи страниц, так что не стесняйтесь исследовать эту область, и вы откроете для себя новый способ думая о программной инженерии. И кто знает? Может быть, когда-нибудь ты займешь это место архитекторов.
+Будет принята только хорошая реализация, так как это лучший софтверный магазин в город. Для этого он будет иметь чистый дизайн, будет легко читаемым и понятным. вашими коллегами и будет легко измениться в случае изменения требований.
+
+
+General instructions
+• You are allowed to use language features up to Java 7 included.
+• You are not allowed to use any external libraries, build tools or code generators.
+• Do not use the default package.
+• Create your own relevant packages following the Java package naming conventions.
+• Java is compiled into an intermediate language. This will generate some .class files.
+Do not commit them on your repository!
+• Make sure you have javac and java available as commands in your terminal.
+• Compile the project running the commands bellow in the root of your project folder.
+
+$find * -name "*.java" > sources.txt
+$javac @sources.txt
+
+
+Общие инструкции
+- Допускается использование языковых возможностей вплоть до Java 7 включительно.
+- Вы не имеете права использовать какие-либо внешние библиотеки, инструменты для сборки или генераторы кода.
+- Не используйте пакет по умолчанию.
+- Создавайте свои собственные соответствующие пакеты в соответствии с соглашениями об именовании пакетов Java.
+- Java скомпилирован в промежуточный язык. Это сгенерирует некоторые файлы .class.
+Не коммитируйте их в вашем репозитории!
+- Убедитесь, что у вас есть javac и java, доступные в качестве команд в вашем терминале.
+- Скомпилируйте проект, выполняющий команды, указанные ниже в корне папки проекта.
+
+$find * -name "*.java" > sources.txt
+$javac @sources.txt
+
+
+
+
+You need to implement an aircraft simulation program based on the class diagram provided to you. All classes are required to be implemented respecting every detail provided
+in the diagram. Feel free to add more classes or include additional attributes if you think
+it is necessary, but do not change access modifiers or the class hierarchy for the classes
+provided in the diagram.
+
+Обязательная часть
+Вам необходимо реализовать программу моделирования самолета, основанную на предоставленной вам диаграмме классов. Все классы должны быть реализованы с учетом каждой детали, представленной на диаграмме. Не стесняйтесь добавлять дополнительные классы или включать дополнительные атрибуты, если считаете это необходимым, но не меняйте модификаторы доступа или иерархию классов для классов, представленных на диаграмме.
+
+
+Your program will take one and only one argument from the command line. This argument represents the name of a text file that will contain the scenario that needs to be
+simulated. You can find an example file provided with the subject.
+Executing the program will generate a file simulation.txt that describes the outcome
+of the simulation.
+Example:
+
+
+Поведение программы
+Ваша программа примет один и только один аргумент из командной строки. Этот аргумент представляет собой имя текстового файла, который будет содержать сценарий, который необходимо смоделировать. Вы можете найти файл с примером, предоставленный вместе с темой. Выполняя программу, Вы получите файл simulation.txt, который описывает результат моделирования.
+Пример:
+
+$java ro.academyplus.avaj.simulator.Simulator scenario.txt
+$cat -e simulation.txt
+Tower says: Baloon#B1(1) registered to weather tower.
+Tower says: JetPlane#J1(2) registered to weather tower.
+Tower says: Helicopter#H1(3) registered to weather tower.
+Tower says: Helicopter#H4(4) registered to weather tower.
+Baloon#B1(1): Let's enjoy the good weather and take some pics.
+JetPlane#J1(2): It's raining. Better watch out for lightings.
+Helicopter#H1(3): This is hot.
+Helicopter#H4(4): My rotor is going to freeze!
+Baloon#B1(1): Damn you rain! You messed up my baloon.
+JetPlane#J1(2): OMG! Winter is coming!
+Helicopter#H1(3): This is hot.
+Helicopter#H4(4): My rotor is going to freeze!
+Baloon#B1(1): It's snowing. We're gonna crash.
+JetPlane#J1(2): It's raining. Better watch out for lightings.
+Helicopter#H1(3): This is hot.
+Helicopter#H4(4): My rotor is going to freeze!
+Baloon#B1(1): Damn you rain! You messed up my baloon.
+Baloon#B1(1) landing.
+Tower says: Baloon#B1(1) unregistered from weather tower.
+JetPlane#J1(2): OMG! Winter is coming!
+Helicopter#H1(3): This is hot.
+Helicopter#H4(4): My rotor is going to freeze!
+
+
+Scenario file
+The first line of the file contains a positive integer number. This number represents the
+number of times the simulation is run. In our case, this will be the number of times a
+weather change is triggered.
+Each following line describes an aircraft that will be part of the simulation, with this
+format: TYPE NAME LONGITUDE LATITUDE HEIGHT
+
+Файл сценария
+Первая строка файла содержит положительное целое число. Это число представляет собой количество раз, когда выполняется моделирование. В нашем случае это будет количество срабатываний при изменении погоды. Каждая следующая строка описывает самолет, который будет участвовать в моделировании в этом формате: ДОЛГОТА ИМЯ ТИПА ВЫСОТА ШИРОТЫ
+
+
+Погода генерация
+Существует 4 типа погоды:
+- RAIN
+- FOG
+- SUN
+- SNOW
+Каждая трехмерная точка имеет свою погоду. Не стесняйтесь использовать любой алгоритм генерации, если он учитывает координаты точки. э
+
+
+Aircrafts
+• JetPlane:
+◦ SUN - Latitude increases with 10, Height increases with 2
+◦ RAIN - Latitude increases with 5
+◦ FOG - Latitude increases with 1
+◦ SNOW - Height decreases with 7
+• Helicopter:
+◦ SUN - Longitude increases with 10, Height increases with 2
+◦ RAIN - Longitude increases with 5
+◦ FOG - Longitude increases with 1
+◦ SNOW - Height decreases with 12
+• Baloon:
+◦ SUN - Longitude increases with 2, Height increases with 4
+◦ RAIN - Height decreases with 5
+◦ FOG - Height decreases with 3
+◦ SNOW - Height decreases with 15
+
+Самолеты
+- JetPlane:
+◦ SUN - Широта увеличивается с 10, Высота увеличивается с 2.
+◦ RAIN - увеличение широты с 5
+◦ FOG - увеличение широты с 1
+◦ !SNOW - Высота уменьшается с 7.
+- Вертолет:
+◦ SUN - долгота увеличивается с 10, высота увеличивается с 2.
+◦ RAIN - долгота увеличивается с 5
+◦ FOG - Долгота увеличивается с 1
+◦ !SNOW - Высота уменьшается с 12.
+- Балон:
+◦ SUN - долгота увеличивается с 2, высота увеличивается с 4.
+◦ RAIN - высота уменьшается с 5
+◦ FOG - высота уменьшается с 3
+◦ !SNOW - Высота уменьшается с 15.
+
+
+Simulation
+• Coordinates are positive numbers.
+• The height is in the 0-100 range.
+• If an aircraft needs to pass the upper limit height it remains at 100.
+• Each time an aircraft is created, it receives a unique ID. There can’t be 2 aircrafts
+with the same ID.
+• If an aircraft reaches height 0 or needs to go below it, the aircraft lands, unregisters
+from the weather tower and logs its current coordinates.
+• When a weather change occurs, each aircraft type needs to log a message, as seen in
+the example. The message format is: TYPE#NAME(UNIQUE_ID): SPECIFIC_MESSAGE.
+A funny message will be appreciated during the correction.
+• Each time an aircraft registers or unregisters to/from the weather tower, a message
+will be logged.
+V.6 Validation
+The input file needs to be validated. Any abnormal behaviour due to invalid input data
+is not acceptable. If the input file data is not correct the program stops execution. Any
+error messages will be printed to the standard output.
+
+Моделирование
+- Координаты - положительные числа.
+- Высота в диапазоне 0-100.
+- Если самолету необходимо пройти верхний предел высоты, то он остается на отметке 100.
+- Каждый раз, когда самолет создается, он получает уникальный идентификатор. Не может быть 2-х самолетов с одним и тем же идентификатором.
+- Если самолет достигает высоты 0 или должен опуститься ниже нее, то самолет приземляется, снимает отметку с метеобашни и регистрирует свои текущие координаты.
+- При изменении погоды, каждый тип воздушного судна должен зарегистрировать сообщение, как показано в примере. Формат сообщения таков: TYPE#NAME(UNIQUE_ID): SPECIFIC_MESSAGE.
+Забавное сообщение будет оценено во время исправления.
+- Каждый раз, когда самолет регистрируется или не регистрируется на/с метеорологической вышки, сообщение будет записываться в журнал.
+V.6 Проверка
+Входной файл должен быть проверен. Любое ненормальное поведение из-за недействительных входных данных недопустимо. Если входные данные введены неверно, программа останавливает выполнение. Любой Сообщения об ошибках будут распечатываться на стандартный вывод.
+
+
+Bonus points will be given if:
+• You create your own custom exceptions for treating abnormal behaviour.
+• Your program can read the input file contents when they are encrypted in MD5.
+
+Бонусные очки будут даны, если:
+- Вы создаете свои собственные пользовательские исключения для лечения аномального поведения.
+- Ваша программа может читать содержимое входных файлов, когда они зашифрованы в MD5.
+
+
+@Dpenney не понял о каком генераторе рандомных объектов ты говоришь.
+Начало правильное: создаёшь летающие объекты и связываешь их с башней.
+Дальше указанное количество раз меняешь погоду, а они должны на эти изменения реагировать.
+В сабджекте указаны изменения координат в зависимости от текущей погоды.
+Если объект приземлился -- разрываешь связь между ним и башней, дальше он будто не существует
