@@ -1,0 +1,4 @@
+find * -name "*.java" > sources.txt - для собрания всех java файлов в одну директорию.
+javac -d bin @sources.txt - чтобы скомпилировать все файлы в байт код
+в отдельной папке bin
+java -classpath ./bin Simulator scenario.txt - чтобы запустить главный класс из байт-кода bin с аргументом-файлом сценария.
