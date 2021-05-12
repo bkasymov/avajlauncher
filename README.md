@@ -255,4 +255,3 @@ Simulation: 25
 Helicopter#H3(6): I see no ground!
 JetPlane#J2(8): This sun is getting to my eyes!
 ```
-# avajlauncher
